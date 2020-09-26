@@ -4,8 +4,6 @@
 #include "../includes/fileio.h"
 #include "../includes/constants.h"
 
-vector<process> myProcesses;
-
 using namespace std;
 
 
